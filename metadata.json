@@ -1,0 +1,5 @@
+{
+  "name": "SnapBlue",
+  "description": "A dark blue themed social chat app with private/group messaging, media sharing, and voice/video calls.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
